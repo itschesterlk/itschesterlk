@@ -1,7 +1,6 @@
 <h1 align="center">Why Hello There! Welcome to my GitHub</h1>
 
 <h2 align="center">A Little About Me:</h2>
-
 <p align="center">
   My name is Chester<br>
   Online i'm called Bunno<br>
