@@ -1,7 +1,7 @@
 <h1 align="center">Why Hello There! Welcome to my GitHub</h1>
 
 <h3 align="center">A Little About Me:</h3>
-<ul>
+<ul align="center">
   <li>My name is Chester</>
   <li>Online Handle is usually 'Bunno'</li>
   <li>I am 15 years old</li>
