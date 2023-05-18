@@ -8,7 +8,9 @@
     My username is Bunno everywhere else online<br>
     <br>
     I am 15 years old and I have been programing/coding since I was 11<br>
-    Currently I am in a FTC Robotics team working on TweetyBird
+    Currently I am in a FTC Robotics team working on TweetyBird<br>
+    <br>
+    Visit my website <a href="https://www.chesterlk.com">here!</a>, still a WIP.
   </i>
 </p>
 
