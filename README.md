@@ -11,7 +11,7 @@
   </i>
 </p>
 
-#
+<hr>
 
 ### Some usefull skills
 <a href="https://itschesterlk.github.io">
@@ -26,4 +26,4 @@
 ### Prefered OS
 <a href="https://itschesterlk.github.io">
     <img src="https://skillicons.dev/icons?i=linux" />
-</a>
+</a> <p>I used to use arch btw... IM sORRY I HAD TO</p>
