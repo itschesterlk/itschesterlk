@@ -14,16 +14,16 @@
 #
 
 ### Some usefull skills
-<a href="https://skillicons.dev">
+<a href="https://itschesterlk.github.io">
     <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,vim,vscode,androidstudio" />
 </a>
 
 ### Coding languages
-<a href="https://skillicons.dev">
+<a href="https://itschesterlk.github.io">
     <img src="https://skillicons.dev/icons?i=lua,python,java,html,css" />
 </a>
 
 ### Prefered OS
-<a href="https://skillicons.dev">
+<a href="https://itschesterlk.github.io">
     <img src="https://skillicons.dev/icons?i=linux" />
 </a>
