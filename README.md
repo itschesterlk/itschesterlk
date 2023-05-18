@@ -15,16 +15,16 @@
 <hr>
 
 ### Tools
-<a href="https://itschesterlk.github.io">
+<a href="https://www.chesterlk.com">
     <img src="https://skillicons.dev/icons?i=git,vim,vscode,androidstudio,docker,cloudflare" />
 </a>
 
 ### Coding languages (In order from what I know the most)
-<a href="https://itschesterlk.github.io">
+<a href="https://www.chesterlk.com">
     <img src="https://skillicons.dev/icons?i=java,lua,html,css,javascript,python" />
 </a>
 
 ### Prefered OS
-<a href="https://itschesterlk.github.io">
+<a href="https://www.chesterlk.com">
     <img src="https://skillicons.dev/icons?i=linux" />
 </a> <p>I used to use arch btw... IM sORRY I HAD TO</p>
