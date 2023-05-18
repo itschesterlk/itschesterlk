@@ -5,6 +5,7 @@
   <i>
     <br>
     My name is Chester<br>
+    I use the name Bunno online for personal reasons<br>
     <br>
     I am 15 years old and I have been programing/coding since I was 11<br>
     Currently I am in a FTC Robotics team working on TweetyBird
