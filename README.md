@@ -1,4 +1,4 @@
-<h1 align="center">Why Hello There!</h1>
+<h1 align="center">Hello World!</h1>
 
 <h3 align="center">Welcome to my GitHub Page</h3>
 <p align="center">
@@ -13,7 +13,7 @@
 
 <hr>
 
-### Some usefull skills
+### Tools
 <a href="https://itschesterlk.github.io">
     <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,vim,vscode,androidstudio" />
 </a>
