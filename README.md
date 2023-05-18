@@ -15,7 +15,7 @@
 
 ### Tools
 <a href="https://itschesterlk.github.io">
-    <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,vim,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vim,vscode,androidstudio,docker,cloudflare" />
 </a>
 
 ### Coding languages (In order from what I know the most)
