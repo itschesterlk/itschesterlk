@@ -18,9 +18,9 @@
     <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,vim,vscode,androidstudio" />
 </a>
 
-### Coding languages
+### Coding languages (In order from what I know the most)
 <a href="https://itschesterlk.github.io">
-    <img src="https://skillicons.dev/icons?i=lua,python,java,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,lua,html,css,javascript,python" />
 </a>
 
 ### Prefered OS
