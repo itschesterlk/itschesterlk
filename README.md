@@ -23,7 +23,7 @@
 
 ### Coding languages (In order from what I know the most)
 <a href="https://www.chesterlk.com">
-    <img src="https://skillicons.dev/icons?i=java,lua,python,html,css,javascript,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,lua,python,cpp" />
 </a>
 
 ### Prefered OS
