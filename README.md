@@ -9,6 +9,7 @@
     <br>
     I am 15 years old and I have been programing/coding since I was 11<br>
     Currently I am in a FTC Robotics team working on TweetyBird<br>
+    I work on my solo projects in burts of inspiration.<br>
     <br>
     Visit my website <a href="https://www.chesterlk.com">here!</a>, still a WIP.
   </i>
